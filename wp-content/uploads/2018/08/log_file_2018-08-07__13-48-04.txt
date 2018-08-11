@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: Atlast Agency Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://mvp.sponsy.org
+Data file = /var/www/html/wp-content/themes/atlast-agency/demo_data/atlastagency.wordpress.2018-08-01.xml
+Widget file = /var/www/html/wp-content/themes/atlast-agency/demo_data/akisthemes.info-demos-atlast-agency-widgets.wie
+Customizer file = /var/www/html/wp-content/themes/atlast-agency/demo_data/atlast-agency-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Footer sidebar : 
+
+Custom HTML - WHO ARE WE? - Imported
+Navigation Menu - INFORMATION - Imported
+Navigation Menu - TEAM - Imported
+Navigation Menu - PROJECTS - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
